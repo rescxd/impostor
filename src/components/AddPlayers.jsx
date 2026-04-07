@@ -42,8 +42,8 @@ function AddPlayers({ onReady }) {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-[#FF2D55] to-[#FF5C7C] flex items-center justify-center">
-      <div className="w-full max-w-[500px] min-h-screen flex flex-col px-5 py-8">
+    <div className="min-h-[100svh] bg-gradient-to-b from-[#FF2D55] to-[#FF5C7C] flex items-center justify-center">
+      <div className="w-full max-w-[500px] min-h-[100svh] flex flex-col px-5 py-8">
         {/* Header */}
         <div className="flex items-center justify-between mb-10 pt-6">
           <div className="w-10"></div>
